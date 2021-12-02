@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Remotely Managed</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Remotely Managed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 12:09:29 -0600</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Thu, 02 Dec 2021 12:09:29 -0600</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Nice to meet you. I&amp;rsquo;m Fred.
+Welcome to the Remotely Managed blog. I&amp;rsquo;m here to talk about my interests in technology and Digi Remote Manager.
+I work for Digi Interational, as a senior engineer, on Digi Remote Manager. Remote Manager. Remote Manager lets you manage your large fleet of Digi IoT devices. We have a lot of features, the normal sort of &amp;ldquo;list your device inventory&amp;rdquo;, &amp;ldquo;do firmware updates&amp;rdquo; to the more esoteric &amp;ldquo;run automation scripts against all your devices&amp;rdquo;, &amp;ldquo;update settings on every device in your fleet&amp;rdquo; and other things.</description>
+    </item>
+    
+  </channel>
+</rss>

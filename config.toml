@@ -1,0 +1,25 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Remotely Managed'
+theme = "ananke"
+# From https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml
+enableRobotsTXT = true
+[params]
+  site_logo = "/images/Daffy.png"
+  author = "Fred A Kulack"
+  favicon = "/images/Daffy.png"
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  tiktok = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-blue"
